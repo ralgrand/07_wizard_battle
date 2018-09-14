@@ -11,9 +11,9 @@ def main():
 
 
 def print_header():
-    print('-------------')
-    print('        Wizard Game App')
-    print('-------------')
+    print('---------------')
+    print(' Wizard Game App')
+    print('---------------')
 
 
 def game_loop():
